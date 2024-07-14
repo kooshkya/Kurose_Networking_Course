@@ -4,3 +4,4 @@ This repository is centered around the curriculum provided by the textbook "Comp
 
 In this repository, I will be storing all programming assignments related to the course content. Additionally, this space will host various side projects that explore deeper networking concepts and technologies. While not guaranteed, lab reports documenting experimental findings and practical applications may also be included as they become relevant to my studies and explorations.
 
+The programming exercises can be found here: https://gaia.cs.umass.edu/kurose_ross/programming.php
